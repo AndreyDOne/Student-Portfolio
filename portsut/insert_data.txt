@@ -1,0 +1,29 @@
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2256', 'Dela Rosa, Andrey Jade, C.', 19, 'Male', 'Siniloan, Laguna', '2005-08-10', 'BSIT - 2C', 'andreyjade.delarosa@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2125', 'Boragay, John Mark D', 19, 'Male', 'Jala-jala, Rizal', '2005-09-15', 'BSIT - 2C', 'johnmark.boragay@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2127', 'Serato, Uno Ysmael', 20, 'Male', 'Siniloan, Laguna', '2004-10-01', 'BSIT - 2C', 'unoysmael.serato@lspu.edu.ph'); 
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2185', 'Javier, Khymm Tyrone A.', 21, 'Male', 'Kalayaan, Laguna', '2004-04-05', 'BSIT - 2C', 'khymmtyrone.javier@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2201', 'Aurin, Lorenzo', 20, 'Male', 'Siniloan, Laguna', '2004-05-31', 'BSIT - 2C', 'lorenzo.aurin@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2235', 'Bautista, Angelo A.', 23, 'Male', 'Pakil, Laguna', '2002-03-02', 'BSIT - 2C', 'angelo.bautista@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2128', 'Madrasto, Marcus C.', 22, 'Male', 'Pangil, Laguna', '2003-03-04', 'BSIT - 2C', 'marcuslorenzo.madrasto@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2134', 'Dunghayan, Kiela A.', 20, 'Female', 'Kalayaan, Laguna', '2005-01-08', 'BSIT - 2C', 'kiela.dunghayan@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2249', 'Pillas, Janlee Danvergel A.', 19, 'Male', 'Jalajala, Rizal', '2005-06-26', 'BSIT - 2C', 'janleedanvergel.pillas@lspu.edu.ph');
+
+INSERT INTO student_info (student_id, name, age, gender, address, dob, program_section, email)
+VALUES ('0223-2176', 'Mancilla, Erold Jhon D.', 20, 'Male', 'Pangil, Laguna', '2005-01-09', 'BSIT - 2C', 'eroldjhon.mancilla@lspu.edu.ph');

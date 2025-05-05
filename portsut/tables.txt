@@ -1,0 +1,17 @@
+create table projects(
+   id int auto_increment primary key,
+   proj_name Text,
+   student_id varchar(20)
+);
+
+create table student_info(
+   id int auto_increment primary key,
+   student_id varchar(20),
+   name Text,
+   age int,
+   gender text,
+   address text,
+   dob date,
+   program_section text,
+   email varchar
+);

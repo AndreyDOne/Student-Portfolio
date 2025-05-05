@@ -1,0 +1,95 @@
+-- Dela Rosa
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Quiz Game', '0223-2256');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('2D Platformer Game in Java', '0223-2256');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('C# Paint Application', '0223-2256');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Website Portfolio', '0223-2256');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Vehicular Parking', '0223-2256');
+
+-- Boragay
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Inventory Management System ', '0223-2125');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Library Management System ', '0223-2125');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Website Portfolio ', '0223-2125');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Trash Game', '0223-2125');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Hotel Booking Management System ', '0223-2125');
+
+-- Uno
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Library Management System', '0223-2127');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('2D Platformer Game in Java', '0223-2127');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('C# Windows Form Game', '0223-2127');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Java Snake Game', '0223-2127');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Barangay Management System', '0223-2127');
+
+-- Javier
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Hotel Management System', '0223-2185');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('2D Platformer Game in Java', '0223-2185');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('C# Console Give or Take Game', '0223-2185');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Catch-the-Trash Game (Windows Forms)', '0223-2185');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Text-Based Adventure Game', '0223-2185');
+
+-- Aurin
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Travel Website', '0223-2201');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('To-do List', '0223-2201');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Ecommerce Website', '0223-2201');
+
+-- Bautista
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Rpg Game Adventure ', '0223-2235');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Java 2D Platformer Game', '0223-2235');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Agriculture Farm', '0223-2235');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Trash Game', '0223-2235');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('My Portfolio', '0223-2235');
+
+-- Madrasto
+INSERT INTO projects (proj_name, student_id)
+VALUES ('RPG Game Assets', '0223-2128');
+
+-- Dunghayan
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Local Freelancing Marketplace', '0223-2134');
+
+-- Pillas
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Rpg Game Adventure', '0223-2249');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Java 2D Platformer Game', '0223-2249');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Catch-the-Trash Game (Windows Forms)', '0223-2249'); 
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Text Based Adventure Game', '0223-2249');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Local Freelancing Marketplace', '0223-2249');
+
+-- Mancilla
+INSERT INTO projects (proj_name, student_id)
+VALUES ('C# Paint Application', '0223-2176');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Hotel Management System', '0223-2176');
+INSERT INTO projects (proj_name, student_id)
+VALUES ('Rpg Game Adventure', '0223-2176');
